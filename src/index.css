@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --VeryDarkGray: hsl(0, 0%, 17%);
+  --DarkGray: hsl(0, 0%, 59%);
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+@media (max-width: 640px) {
+  .leaflet-top .leaflet-control {
+    display: none;
+  }
+}
