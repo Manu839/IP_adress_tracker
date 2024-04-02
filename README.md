@@ -1,5 +1,12 @@
-IP tracker
+IP tracker: 
 the go-to website for instantly locating IP addresses on a map. With its sleek interface and precise mapping technology, this provides users with real-time location data, down to street-level accuracy. Simply enter an IP address and explore its geographical coordinates, country, city, ISP, and more. Whether you're investigating, monitoring, or simply curious. 
+
+Tech and tools used :
+1) React
+2) Tailwindcss
+3) Leaflet
+4) axios
+   
 ![Screenshot 2024-04-02 200944](https://github.com/Manu839/IP_adress_tracker/assets/124304448/f8d6ca85-e06e-4ef9-a030-0e79b232214d)
 
 
